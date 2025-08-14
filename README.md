@@ -1,9 +1,9 @@
-🌦️ Weather Forecasting Web App
+##🌦️ Weather Forecasting Web App
 
 A clean, responsive HTML + CSS + JS app that fetches real-time weather data from OpenWeather API.
 Search any city 🌍 to see temperature, humidity, wind speed, and a visual weather icon 🌤️ — all in a fast & mobile-friendly interface 📱⚡.
 
-✨ Features
+##✨ Features
 
 🔍 Search by city
 
