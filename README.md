@@ -1,28 +1,19 @@
 🌦️ Weather Forecasting Web App
 
-A simple and responsive weather forecasting web application built using HTML, CSS, and JavaScript.
-This app allows users to search for any city in the world and get real-time weather details such as temperature, humidity, wind speed, and weather conditions.
+A clean, responsive HTML + CSS + JS app that fetches real-time weather data from OpenWeather API.
+Search any city 🌍 to see temperature, humidity, wind speed, and a visual weather icon 🌤️ — all in a fast & mobile-friendly interface 📱⚡.
 
-🚀 Features
+✨ Features
 
-🌍 Search weather by city name.
+🔍 Search by city
 
-🌡️ Displays real-time temperature (°C / °F).
+🌡️ Real-time temperature (°C/°F)
 
-💨 Shows wind speed and humidity.
+💨 Wind speed & humidity
 
-🌤️ Weather icons for visual representation.
+🌤️ Weather icons
 
-📱 Fully responsive design for mobile and desktop.
+📱 Fully responsive
 
-⚡ Fast and lightweight — no frameworks required.
-
-🛠️ Technologies Used
-
-HTML5 – for the structure of the app.
-
-CSS3 – for styling and responsive design.
-
-JavaScript (ES6) – for fetching and displaying live weather data.
-
-OpenWeather API – for real-time weather data.
+🛠 Tech Stack
+HTML5 • CSS • JavaScript  • OpenWeather API
